@@ -1,0 +1,15 @@
+{
+  "name": "訂閱管理",
+  "short_name": "訂閱管理",
+  "description": "追蹤 PRO、PREMIUM 等訂閱的花費與扣款日",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f9f9f7",
+  "theme_color": "#f9f9f7",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
